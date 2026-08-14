@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fastcompany.business/sitemap.xml
